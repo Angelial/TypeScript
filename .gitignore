@@ -1,0 +1,20 @@
+.DS_Store
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.test_Uglify_cache/
+.dist_Uglify_cache/
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# yarn lock
+yarn.lock
+# package lock
+package-lock.json
